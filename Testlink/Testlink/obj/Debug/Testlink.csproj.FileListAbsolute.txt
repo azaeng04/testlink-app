@@ -1,0 +1,6 @@
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\Testlink\obj\Debug\Testlink.csprojResolveAssemblyReference.cache
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\Testlink\bin\Debug\Testlink.dll
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\Testlink\bin\Debug\Testlink.pdb
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\Testlink\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\Testlink\obj\Debug\Testlink.dll
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\Testlink\obj\Debug\Testlink.pdb

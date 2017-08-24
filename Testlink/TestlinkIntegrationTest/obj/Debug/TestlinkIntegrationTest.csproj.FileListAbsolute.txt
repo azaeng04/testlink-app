@@ -1,0 +1,9 @@
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\TestlinkIntegrationTest\obj\Debug\TestlinkIntegrationTest.csprojResolveAssemblyReference.cache
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\TestlinkIntegrationTest\bin\Debug\TestlinkIntegrationTest.dll
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\TestlinkIntegrationTest\bin\Debug\TestlinkIntegrationTest.pdb
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\TestlinkIntegrationTest\bin\Debug\nunit.framework.dll
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\TestlinkIntegrationTest\bin\Debug\Testlink.dll
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\TestlinkIntegrationTest\bin\Debug\Testlink.pdb
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\TestlinkIntegrationTest\bin\Debug\nunit.framework.xml
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\TestlinkIntegrationTest\obj\Debug\TestlinkIntegrationTest.dll
+C:\Users\Azariah\Documents\Visual Studio 2015\Projects\Testlink\TestlinkIntegrationTest\obj\Debug\TestlinkIntegrationTest.pdb
